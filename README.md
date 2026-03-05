@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hello there! 👋
 
 I’m **Jeremy**, a mobile developer who builds applications for **iOS and Android**.
 I enjoy creating clean interfaces, simple user experiences, and useful tools that people can use every day.
