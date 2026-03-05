@@ -24,27 +24,16 @@ I enjoy creating clean interfaces, simple user experiences, and useful tools tha
 
 ---
 
-### Some projects and experiments:
+### Tech I like working with
 
-* **TwitterCloneSwiftUI** – Twitter interface built with SwiftUI
-* **InstagramCloneSwiftUI** – Instagram UI clone built with SwiftUI
-* **UberClone** – Ride sharing app interface built in Swift
-* **ChatApp** – Messaging application prototype
-* **Mobile Movie App** – Movie browsing app built with TypeScript
-
----
-
-### Tech I like working with:
-
-* Swift / SwiftUI
-* Kotlin / Android
-* Flutter / Dart
-* React Native
-* SQflite
-* Firebase
-* Supabase
-* Appwrite
-* Software Architect
+| Category            | Technologies                 |
+| ------------------- | ---------------------------- |
+| iOS Development     | Swift, SwiftUI               |
+| Android Development | Kotlin, Android              |
+| Cross-Platform      | Flutter (Dart), React Native |
+| Local Database      | SQflite                      |
+| Backend / BaaS      | Firebase, Supabase, Appwrite |
+| Architecture        | Software Architecture        |
 
 ---
 
