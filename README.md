@@ -28,8 +28,9 @@ I enjoy creating clean interfaces, simple user experiences, and useful tools tha
 
 | Mobile          | Cross-Platform        | Backend                      | Database | Architecture          |
 | --------------- | --------------------- | ---------------------------- | -------- | --------------------- |
-| Swift, SwiftUI  | Flutter, React Native | Firebase, Supabase, Appwrite | SQflite  | Software Architecture |
-| Kotlin, Android | Dart                  |                              |          |                       |
+| Swift, SwiftUI  | Flutter, React Native | Firebase, Supabase, Appwrite | SQflite  | MVC, MVVM             |
+| Kotlin, Android | Dart                  |                              |          | Provider, Cubit, BLoC |
+|                 |                       |                              |          | Clean Architecture    |
 
 ---
 
