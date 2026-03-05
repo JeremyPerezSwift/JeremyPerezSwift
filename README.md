@@ -26,14 +26,10 @@ I enjoy creating clean interfaces, simple user experiences, and useful tools tha
 
 ### Tech I like working with
 
-| Category            | Technologies                 |
-| ------------------- | ---------------------------- |
-| iOS Development     | Swift, SwiftUI               |
-| Android Development | Kotlin, Android              |
-| Cross-Platform      | Flutter (Dart), React Native |
-| Local Database      | SQflite                      |
-| Backend / BaaS      | Firebase, Supabase, Appwrite |
-| Architecture        | Software Architecture        |
+| Mobile          | Cross-Platform        | Backend                      | Database | Architecture          |
+| --------------- | --------------------- | ---------------------------- | -------- | --------------------- |
+| Swift, SwiftUI  | Flutter, React Native | Firebase, Supabase, Appwrite | SQflite  | Software Architecture |
+| Kotlin, Android | Dart                  |                              |          |                       |
 
 ---
 
