@@ -36,5 +36,6 @@ I enjoy creating clean interfaces, simple user experiences, and useful tools tha
 ### Fun facts:
 
 * I enjoy learning new things every day.
+* Big coffee lover, especially **cappuccino ☕**
 * Currently learning **English 🇬🇧 and Japanese 🇯🇵**
 * Hobbies: **hiking & gym**
