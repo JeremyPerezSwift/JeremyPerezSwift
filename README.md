@@ -37,4 +37,4 @@ I enjoy creating clean interfaces, simple user experiences, and useful tools tha
 
 * I enjoy learning new things every day.
 * Currently learning **English 🇬🇧 and Japanese 🇯🇵**
-* Hobbies: hiking & gym**
+* Hobbies: **hiking & gym**
